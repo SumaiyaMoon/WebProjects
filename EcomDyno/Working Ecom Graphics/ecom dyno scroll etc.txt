@@ -1,0 +1,19 @@
+// Show the button when the user scrolls beyond a certain threshold (e.g., 300px from the top)
+// window.addEventListener('scroll', function () {
+//     var button = document.getElementById('btnBackToHome');
+//     if (window.scrollY ) {
+//         button.style.display = 'block';
+//     } else {
+//         button.style.display = 'none';
+//     }
+// });
+
+// // Scroll to the top when the button is clicked
+// document.getElementById('btnBackToHome').addEventListener('click', function (event) {
+//     event.preventDefault();
+//     window.scrollTo({
+//         top: 0,
+//         behavior: 'smooth'
+//     });
+// });
+

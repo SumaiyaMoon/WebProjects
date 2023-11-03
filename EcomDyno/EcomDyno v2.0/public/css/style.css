@@ -1,0 +1,30 @@
+*{
+    margin: 0px ;
+    padding: 0px ;
+    box-sizing: border-box ;
+    font-family: 'Montserrat', sans-serif;
+}
+body{
+    background-color: whitesmoke !important;
+}
+.black_shade{
+    background-color: rgba(0, 0, 0, .6) !important;
+    
+    
+}
+a{
+    text-decoration: none !important;
+    color: inherit !important;
+}
+.contact_us{
+    background-image: url(../img/background\ image.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.team_leads{
+    font-size: 100px !important;
+    margin-bottom: 10px !important;
+}
+.bg-semi-transparent{
+    background-color: rgba(0, 0, 0, .2);
+}

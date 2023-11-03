@@ -1,0 +1,7 @@
+firebase deploy --only hosting:ecom-dyno-project
+
+
+
+
+
+  

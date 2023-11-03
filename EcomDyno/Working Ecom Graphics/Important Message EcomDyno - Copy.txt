@@ -1,0 +1,105 @@
+saare pages bahar Q rakhe we hain?
+
+ye kia hora hai 
+ctrl wagera nhi chlega code lgaya tha 
+
+
+lekin UI bhi to kharab horahi hai 
+htaa doon?
+
+ye jo black layer aayi hai us ko hataen 
+htadi
+
+navbar nai banaya?
+no
+
+sir jo secure.js lgai h mene kia woh lgana theek h?
+
+
+aap ki koi secure website hai?
+
+koi secure data hai?
+g bhai ny kaha tha k koi copy na krsky  to isliye
+
+thk hai phr lage rehne den 
+
+
+aap ne bootstrap konsi lagai hai?
+is main bootstrap ki classes chal hi nai rahi hain
+
+v4..template tha ye isko edit kia h
+
+Q kia hai?
+
+is main template jesa to kch bhi nai hai 
+hn sb hta dia tha mene woh responsive nhi tha phir krty krty ye hogya
+
+ruken 
+main is main wo hi bootstrap laga raha hun 
+
+
+
+sister ye boht zyad bigri wi hai 
+
+is ko shuru se sudharna parega 
+mujhy sirf 1 week mila tha ye krny k liye
+
+abhi aap aik kaam kijiye 
+
+is ki saari animation hata k bootstrap 5 se poori khud se set kijiye 
+saari animation hata den is main 
+or normally pehle content behtar karen 
+
+animation extra part hai wo na bhi karen to masla nai hai 
+
+abhi sirf is ka content easy or readable karen 
+or code bhi readable karen 
+
+mene isme itni mehnat ki th poori v4 sy dekh dekh kr
+
+jab v5 hai to version 4 se Q ki aap ne
+
+wo or zyada asan hai 
+v4 se 
+
+lg hi nhi rh th v5 or na hi font awesome ka latest version chl rha tha
+
+
+font awsome ka cdn main de raha hun aap ko 
+
+aap is ko v5 k hisab se bahtar kijye 
+or saari animation hataen is main se 
+
+simple rakhen is ko 
+
+content jitna simple ho utna zyada behtar hota hai 
+images jitni kam hon utna zyada behtar rehta hai  us se website a load kam rehta hai 
+hamare folder main custome css ki sirf hamari file honi chahiye us k ilawa sab online lagna chahiye
+card ki image hamesha chhoti honi chahoiye jese icons ki hain 
+aap ne hover pe jo card ka effect lagaya wo sahi nai hai bilkul bachon wala lag raha hai wo effect hataen 
+images main in k round shape main images lagaen .center kar 
+aap ne navbar nai lagaya jab k is tarha ki website main navbar normally hota hai 
+images k jaga icons lagana sab se best practice hai images kam se kam honi chahiye 
+YE JO image hai is main kia point hai kch samajh main hi nai araha hai view clear hi nai horaha hai is image ko behtar karen
+last or sab se important point ye hai k website sab se pehle mobile responsive honi chahiye agr mobile responsive nai hai to website sahi nai bani.
+
+in saare points ko dekhiye 
+
+or jo samajh main na aaye mujh se pochh lijiye 
+me soch rhi dobara bnao kia sb kuch isme to sb ult phulat h 
+
+ye zyada behtar rahega 
+
+lekin bss koshish kijiye k wo best ho 
+exams k baad bnaongi insha Allah! ab to kbh mene template nhi uthana first and last.
+
+good 
+isko abh jo live h rehny doon?
+
+
+ji rehne den 
+or jaldi wo tayyar karen 
+mujy abh ik or bh bnani th
+Sir JazakAllah apny itna time dia mujhy
+
+Ameen 
